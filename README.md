@@ -28,4 +28,4 @@ If you have any questions about the repo, please [open an issue](https://github.
     
 ## Credits
 * Coded with fervor by Ruth Torres. 
-# social-api-h
+# social-api-
