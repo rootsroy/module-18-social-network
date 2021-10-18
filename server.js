@@ -18,9 +18,8 @@ mongoose.connect(
   }
 );
 
-
-app.get('/test',(req,res)=>{
-  res.send('Hello from server')
-})
+app.get("/test", (req, res) => {
+  res.send("Hello from server");
+});
 mongoose.set("debug", true);
 app.listen(PORT, () => console.log(`Connected on localhost: ${PORT}`));
